@@ -1,0 +1,16 @@
+
+.my-color {
+	color: red;
+}
+
+.my-font {
+	font-family: 'Work Sans';
+}
+
+.my-root-class {
+	background: black;
+}
+
+.my-root-class body {
+	background: black;
+}
